@@ -1,0 +1,2 @@
+# myname
+creating new git
